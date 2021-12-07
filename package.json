@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httplib.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node httplib.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank29-p/javascript-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank29-p/javascript-project/issues"
+  },
+  "homepage": "https://github.com/shashank29-p/javascript-project#readme"
+}
