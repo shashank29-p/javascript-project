@@ -24,4 +24,4 @@ else{
     res.write(data);
 }
 res.end();
-}).listen(8080,()=>{console.log('sever started')});
+}).listen(process.env.PORT,()=>{console.log('sever started')});
